@@ -1,0 +1,25 @@
+#ad{
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#er{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: crimson;
+}
+#camera{
+    height: 400px;
+    width: 500px;
+    border: 5px solid #000000;;
+    
+}
+#result2{
+    height: 200px;
+    width: 250px;
+    border: 5px solid #000000;
+    box-shadow: 10px 10px;
+}
+#copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
